@@ -1,3 +1,3 @@
-print('Hi')
 print('world')
+print('Hi')
 
